@@ -1,0 +1,26 @@
+  <div className=" flex items-center justify-between mx-2 my-3">
+                <div className=" flex items-center space-x-2">
+                  <input type='checkbox' />
+                  <div>
+                    <h3 className=" text-cyan-500">
+                      Watch 1 design Master Class
+                    </h3>
+                    <p className="text-cyan-700">18h30</p>
+                  </div>
+                </div>
+                <input type='radio' />
+              
+              </div>
+              
+              <div className=" flex items-center justify-between mx-2">
+                <div className=" flex items-center space-x-2">
+                <input type='checkbox' />
+                  
+                  <div>
+                    <h3 className=" text-cyan-500">Feed the Cat</h3>
+                    <p className="text-cyan-700">20h30</p>
+                  </div>
+                </div>
+                <input type='radio' />
+               
+              </div>
